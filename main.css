@@ -2,6 +2,13 @@ body {
   font: 16px Helvetica, Sans-Serif;
   background: url(White.jpg);
 }
+.contact {
+  margin: 0 0 16px 0;
+  padding: 0 0 16px 0;
+  font-size: 42px;
+  font-weight: bold;
+  border-bottom:1px solid #999;
+}
 .summary {
   font-style: italic;
 }
@@ -16,3 +23,5 @@ body {
 .content {
   float: left;
 }
+.radisson-blu {
+  margin
