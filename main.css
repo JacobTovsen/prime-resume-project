@@ -1,3 +1,7 @@
+body {
+	font: 16px Helvetica, Sans-Serif;
+	background: url(White.jpg);
+}
 .summary {
   font-style: italic;
 }
