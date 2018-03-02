@@ -4,3 +4,7 @@
 .date {
   float: right;
 }
+#pic {
+  height: 150px;
+  width: 150px;
+}
