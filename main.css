@@ -12,6 +12,7 @@ body {
 }
 .summary {
   font-style: italic;
+  border-bottom:1px solid #999;
 }
 .date {
   float: right;
