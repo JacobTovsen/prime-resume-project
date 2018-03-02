@@ -1,4 +1,6 @@
 .summary {
   font-style: italic;
 }
-
+div.date {
+  display: inline;
+}
