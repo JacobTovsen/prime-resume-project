@@ -17,8 +17,11 @@ body {
 }
 #pic {
   float: right;
+  float: top;
   height: 25%;
   width: 25%;
+  max-width: 92px;
+  max-height: 110px;
 }
 .content {
   float: left;
