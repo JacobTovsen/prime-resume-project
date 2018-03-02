@@ -6,4 +6,9 @@
 }
 #pic {
   float: right;
+  height: 25%;
+  width: 25%;
+}
+.radisson-blu-banquet-manager {
+  float: left;
 }
