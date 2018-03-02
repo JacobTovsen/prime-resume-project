@@ -1,6 +1,6 @@
 .summary {
   font-style: italic;
 }
-.radisson-blu-banquet-manager, .date {
-  display: inline;
+.date {
+  float: right;
 }
